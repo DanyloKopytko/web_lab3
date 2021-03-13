@@ -13,3 +13,5 @@ controller.addItem({ lastName: 'Tsar', phoneNumber: '096-159-68-25' });
 controller.addItem({ lastName: 'Tsar', phoneNumber: '097-333-22-22' });
 controller.addItem({ lastName: 'Yaroslav', phoneNumber: '096-228-13-37' });
 controller.addItem({ lastName: 'Yaroslav', phoneNumber: '097-231-78-56' });
+controller.addItem({ lastName: 'Syomadog', phoneNumber: '063-218-56-35' });
+controller.addItem({ lastName: 'Syomadog', phoneNumber: '063-211-21-59' });
